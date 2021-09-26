@@ -1,0 +1,44 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 30px darkviolet;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: lightcoral;
+    box-shadow: -5px -5px 30px darkolivegreen;
+}
+.heading_div2{
+    font-size: 20px;
+
+}
+.result{
+    width: 95%;
+    height: 50px;
+    background-color: lightpink;
+    color:purple;
+}
+.result2{
+    width: 85%;
+    height: 50px;
+    left: 10px;
+    background-color: lightpink;
+}
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: lightyellow;
+    color:darkviolet;
+    text-align: center;
+}
+canvas{
+    border:3px dashed black;
+    margin-bottom: 50px;
+    margin-top: 250px;
+    box-shadow: 5px 5px 5px lightpink;
+}
